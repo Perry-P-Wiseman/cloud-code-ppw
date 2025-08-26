@@ -1,0 +1,21 @@
+{
+  "exported": "2025-08-26T00:57:49.547757",
+  "chain_length": 1,
+  "chain": [
+    {
+      "id": "CERT-55847627305241977",
+      "timestamp": "2025-08-26T00:57:49.547525",
+      "content_preview": "\n    PPW Mathematical Proof Document\n    Certificate ID: 55847627305241977\n    Owner: Perry Philip W...",
+      "hashes": {
+        "sha256": "108419b77914d8a5a1c0da13c1814cc6ce4a631146256f524bd44ce94dc690db",
+        "sha3_512": "1630fd8e213d0122ef34309768e10b6acb0e95d8fcc312aa9265c0f23c22566471e96818d4cbc99460d25ad1c0d6502aba4b7470bfc1d912bfc58e494747a9f0"
+      },
+      "metadata": {
+        "type": "global_ownership_proof",
+        "jurisdiction": "multi",
+        "status": "finalized"
+      },
+      "previous_hash": "GENESIS"
+    }
+  ]
+}
